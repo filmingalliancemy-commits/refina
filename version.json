@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202609181340",
+  "build": "202609181353",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 14,
-  "notes": "测试自动更新"
+  "notes": "自动更新测试"
 }
