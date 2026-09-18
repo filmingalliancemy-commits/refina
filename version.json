@@ -1,0 +1,9 @@
+{
+  "version": "2.1.0",
+  "build": "202609181334",
+  "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
+  "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
+  "full": true,
+  "size_mb": 14,
+  "notes": "第一版：影片补帧/慢动作/放大，照片去噪/放大/修脸/上色，音频去噪/修音/分轨"
+}
