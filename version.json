@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202609181423",
+  "build": "202609221830",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 14,
-  "notes": "音频：视频进视频出（画面不重压，只换音轨）；存到指定文件夹；去噪 post-filter"
+  "notes": "音频：去噪可以关；低切改 50Hz 留胸腔感"
 }
