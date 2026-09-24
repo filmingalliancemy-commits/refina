@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202609221830",
+  "build": "202609250143",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 14,
-  "notes": "音频：去噪可以关；低切改 50Hz 留胸腔感"
+  "notes": "音频去噪加「精细」档：MossFormer2 重建人声 + DFN 扫尾，更饱更顺"
 }
