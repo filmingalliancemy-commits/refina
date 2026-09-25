@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202609251502",
+  "build": "202609251649",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 14,
-  "notes": "README 改版：三步安装、图示分区"
+  "notes": "照片修脸换 CodeFormer（四档忠实度）+ 小脸警告"
 }
