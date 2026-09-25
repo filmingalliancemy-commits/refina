@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202609251649",
+  "build": "202609251738",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
-  "full": false,
+  "full": true,
   "size_mb": 14,
-  "notes": "照片修脸换 CodeFormer（四档忠实度）+ 小脸警告"
+  "notes": "清掉 GFPGAN，App 瘦身到 2.1GB；音频静音保护"
 }
