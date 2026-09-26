@@ -50,7 +50,7 @@
   ✅  macOS 13 Ventura 或更新
   ✅  Apple Silicon（M1 / M2 / M3 / M4）
   ❌  Intel Mac 不支持
-  💾  硬盘留 5 GB（App 2.6 GB + 处理时的临时文件）
+  💾  硬盘留 5 GB（App 2.1 GB + 处理时的临时文件）
       4K 慢动作要更多：8 倍约 20 GB，32 倍约 80 GB
       临时文件跑完自动删
   🧠  内存 8 GB 够跑 1080p；4K 慢动作建议 16 GB

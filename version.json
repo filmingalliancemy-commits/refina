@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202609251738",
+  "build": "202609262255",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
-  "full": true,
+  "full": false,
   "size_mb": 14,
-  "notes": "清掉 GFPGAN，App 瘦身到 2.1GB；音频静音保护"
+  "notes": "照片尺寸改成摄影用语：网页 / 社媒 / 印刷 A3"
 }
