@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610162103",
+  "build": "202610162257",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
-  "full": false,
+  "full": true,
   "size_mb": 15,
-  "notes": "音频加人声/伴奏分离；影片放大换 4xLSDIR"
+  "notes": "拿掉 RealSR；人声分离；影片放大换 4xLSDIR"
 }
