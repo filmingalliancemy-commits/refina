@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610162035",
+  "build": "202610162103",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
-  "size_mb": 14,
-  "notes": "照片加：锐利引擎 + 一键去背"
+  "size_mb": 15,
+  "notes": "音频加人声/伴奏分离；影片放大换 4xLSDIR"
 }
