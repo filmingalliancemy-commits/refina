@@ -102,6 +102,23 @@
         RAW：dng  cr2  cr3  arw  nef  raf
 
 
+┌─────────────────────────────────────────────────┐
+│  素材与授权                                      │
+└─────────────────────────────────────────────────┘
+
+  🎨  吉祥物和成就徽章由 Google Gemini 生成
+  🔊  提示音购自 Envato（已授权）
+  🧠  AI 引擎均为开源项目：
+      Real-ESRGAN (BSD-3) · DDColor (Apache-2.0)
+      MossFormer2 (Apache-2.0) · Demucs (MIT)
+      DeepFilterNet (MIT) · RIFE (MIT)
+      CodeFormer (NTU S-Lab 1.0，仅限非商业用途)
+
+  ⚠️  「修脸」功能基于 CodeFormer，其授权仅允许
+      非商业使用。Refina 本身永久免费、不收费，
+      符合该授权。
+
+
   ─────────────────────────────────────────────────
   Refina 永久免费，不锁功能。
   用得顺手，请我喝杯 Zus Coffee ☕
