@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610171354",
+  "build": "202610171416",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "影片页：顺便修声音、智能转竖屏、降噪换更好的引擎"
+  "notes": "音频可选 WAV/MP3/M4A/FLAC；影片 ProRes 音轨改 24bit、MP4 码率可选"
 }
