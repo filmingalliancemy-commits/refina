@@ -2,7 +2,7 @@
 
 **最后更新：2026-10-17** · 适用版本 v2.1.0 起
 
-Refina 由 **Hanyu Filming Studio**（马来西亚吉隆坡）开发并提供。
+Refina 由 **Hanyu Filming Studio**（SSM 202103146940 / CA0324496-P，独资企业，马来西亚吉隆坡）开发并提供。
 联系方式：filmingalliancemy@gmail.com
 
 ---
@@ -94,7 +94,7 @@ Refina 是 macOS 原生应用程序，**不使用 cookie**。
 
 **Last updated: 2026-10-17** · Applies from v2.1.0
 
-Refina is made by **Hanyu Filming Studio** (Kuala Lumpur, Malaysia).
+Refina is made by **Hanyu Filming Studio** (SSM 202103146940 / CA0324496-P, sole proprietorship, Kuala Lumpur, Malaysia).
 Contact: filmingalliancemy@gmail.com
 
 **In one line: your video, photos and audio never leave your computer, not even their file names.**

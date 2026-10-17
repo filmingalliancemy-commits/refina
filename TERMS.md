@@ -2,7 +2,7 @@
 
 **最后更新：2026-10-17** · 适用版本 v2.1.0 起
 
-提供者：**Hanyu Filming Studio**，马来西亚吉隆坡
+提供者：**Hanyu Filming Studio**（SSM 202103146940 / CA0324496-P，独资企业），马来西亚吉隆坡
 联系方式：filmingalliancemy@gmail.com
 
 隐私相关请看 [隐私政策](PRIVACY.md)。
@@ -86,7 +86,7 @@ Refina 按「现状」提供，不提供任何明示或暗示的担保。
 # English
 
 **Last updated: 2026-10-17** · Applies from v2.1.0
-Provided by **Hanyu Filming Studio**, Kuala Lumpur, Malaysia · filmingalliancemy@gmail.com
+Provided by **Hanyu Filming Studio** (SSM 202103146940 / CA0324496-P, sole proprietorship), Kuala Lumpur, Malaysia · filmingalliancemy@gmail.com
 See also the [Privacy Policy](PRIVACY.md).
 
 **What it is.** Refina is a media tool that runs entirely on your own Mac, wrapping open-source AI engines for video, photo and audio work. It is **free forever**, with no locked features, subscriptions or in-app purchases.
