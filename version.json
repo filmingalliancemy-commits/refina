@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610171255",
+  "build": "202610171354",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "性能数字重新实测"
+  "notes": "影片页：顺便修声音、智能转竖屏、降噪换更好的引擎"
 }
