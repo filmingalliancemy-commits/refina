@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610171233",
+  "build": "202610171239",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "README 补上素材与引擎授权说明"
+  "notes": "隐私政策和条款上线；照片默认不动画面，什么都不选就原样还你"
 }
