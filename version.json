@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610162259",
+  "build": "202610171143",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
-  "full": true,
+  "full": false,
   "size_mb": 15,
-  "notes": "人声分离；影片放大换 4xLSDIR；退役 RealSR"
+  "notes": "工作页改版：默认全关，功能点一下加进来，控件直接在条目上"
 }
