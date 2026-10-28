@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202610281658",
+  "build": "202610281724",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "邀请码复制时带上下载链接和填码步骤"
+  "notes": "修正：单声道素材做人声分离时音量小 3 dB"
 }
