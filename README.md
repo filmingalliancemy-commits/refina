@@ -49,7 +49,7 @@
 └─────────────────────────────────────────────────┘
 
   ✅  macOS 13 Ventura 或更新
-  ✅  Apple Silicon（M1 / M2 / M3 / M4）
+  ✅  Apple Silicon（M1 / M2 / M3 / M4 / M5）
   ❌  Intel Mac 不支持
   💾  硬盘留 5 GB（App 2.1 GB + 处理时的临时文件）
       4K 慢动作要更多：8 倍约 20 GB，32 倍约 80 GB
