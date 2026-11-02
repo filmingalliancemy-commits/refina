@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202611022259",
+  "build": "202611030026",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "说明文件：支持芯片补上 M5"
+  "notes": "新功能：影片页「同步」，相机 + 外录声音按声音对齐，出 Final Cut / DaVinci 时间线；可配「声音」先修再对齐"
 }
