@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202611030026",
+  "build": "202611080210",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "新功能：影片页「同步」，相机 + 外录声音按声音对齐，出 Final Cut / DaVinci 时间线；可配「声音」先修再对齐"
+  "notes": "新功能：Final Cut 面板（Final Cut 工具栏的拼图按钮 → Refina），在 Final Cut 里拖片段进来、拖功能上去，做好直接拖回时间线。同步：多机位接力对齐、可选时间线帧率，修好 59.94/29.97 片段导不进 Final Cut"
 }
