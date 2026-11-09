@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202611080210",
+  "build": "202611091524",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "新功能：Final Cut 面板（Final Cut 工具栏的拼图按钮 → Refina），在 Final Cut 里拖片段进来、拖功能上去，做好直接拖回时间线。同步：多机位接力对齐、可选时间线帧率，修好 59.94/29.97 片段导不进 Final Cut"
+  "notes": "修好：带时间码轨的相机片段（很多专业相机录的）在影片页处理后帧率错乱、片变得很长。同步：时间线帧率改成只列 Final Cut 有的（23.976 到 60），选什么就是什么；相机是 120 这类 Final Cut 没有的帧率，会请你选一个。同步失败时任务卡写出原因"
 }
