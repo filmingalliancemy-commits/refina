@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202611091634",
+  "build": "202611091714",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "选功能改成跟 Final Cut 一样：功能格子拖到素材框就加进来（点一下也行），加了的在下面调，✕ 拿掉。每次打开一页都从全关开始，要什么自己加。修好：声音页「全部清除」会把去噪打开"
+  "notes": "同步的多机位版挂上 Beta 标签（还在实测中）"
 }
