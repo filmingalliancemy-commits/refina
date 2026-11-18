@@ -23,7 +23,7 @@ Refina 是一个在你自己 Mac 上运行的素材处理工具，把一批开�
 
 > **「修脸」功能基于 CodeFormer，其授权（NTU S-Lab License 1.0）仅允许非商业用途。**
 > Refina 本身免费、不收费，符合该授权。如果你要把修脸后的成品用于商业项目，请自行确认是否符合 CodeFormer 的授权条款，或关闭「修脸」功能。
-> 其他功能所用的引擎（Real-ESRGAN、DDColor、MossFormer2、Demucs、DeepFilterNet、RIFE）授权宽松，可商用。
+> 其他功能所用的引擎（Real-ESRGAN、DDColor、MossFormer2、Mel-Band RoFormer、DeepFilterNet、RIFE）授权宽松，可商用。
 
 完整授权清单见 [README](README.md)。
 
@@ -91,7 +91,7 @@ See also the [Privacy Policy](PRIVACY.md).
 
 **What it is.** Refina is a media tool that runs entirely on your own Mac, wrapping open-source AI engines for video, photo and audio work. It is **free forever**, with no locked features, subscriptions or in-app purchases.
 
-**Your output is yours.** We claim no rights over anything you produce. **One exception to be aware of:** the Face Restore feature is built on CodeFormer, whose licence (NTU S-Lab License 1.0) permits **non-commercial use only**. Refina itself is free and therefore complies; if you intend to use face-restored results in a commercial project, please confirm compliance yourself or turn Face Restore off. All other engines (Real-ESRGAN, DDColor, MossFormer2, Demucs, DeepFilterNet, RIFE) carry permissive licences.
+**Your output is yours.** We claim no rights over anything you produce. **One exception to be aware of:** the Face Restore feature is built on CodeFormer, whose licence (NTU S-Lab License 1.0) permits **non-commercial use only**. Refina itself is free and therefore complies; if you intend to use face-restored results in a commercial project, please confirm compliance yourself or turn Face Restore off. All other engines (Real-ESRGAN, DDColor, MossFormer2, Mel-Band RoFormer, DeepFilterNet, RIFE) carry permissive licences.
 
 **You may not** repackage and sell Refina, remove or falsify authorship, process media you have no right to process, or abuse the sign-in and statistics systems.
 

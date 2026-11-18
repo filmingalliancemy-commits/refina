@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
-  "build": "202611091732",
+  "build": "202611190045",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "影片任务卡照开了的功能写名字（只开修声音、转竖屏也会写上），以前会误写成「仅转分辨率」"
+  "notes": "慢动作换新引擎 RIFE 4.26，画面更清楚（第一次用会下 23MB）；人声分离换 Mel-RoFormer，残留音乐少一半（第一次用会下 913MB，较慢）；照片去背头发边缘不再有灰边；Final Cut 面板贴上时间线片段只修那一段"
 }

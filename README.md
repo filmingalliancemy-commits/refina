@@ -122,7 +122,7 @@
   🔊  提示音购自 Envato（已授权）
   🧠  AI 引擎均为开源项目：
       Real-ESRGAN (BSD-3) · DDColor (Apache-2.0)
-      MossFormer2 (Apache-2.0) · Demucs (MIT)
+      MossFormer2 (Apache-2.0) · Mel-Band RoFormer (MIT)
       DeepFilterNet (MIT) · RIFE (MIT)
       CodeFormer (NTU S-Lab 1.0，仅限非商业用途)
 
