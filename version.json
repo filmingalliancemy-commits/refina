@@ -1,9 +1,10 @@
 {
   "version": "2.1.0",
-  "build": "202611190045",
+  "build": "202611220354",
   "update_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0-update.zip",
   "full_url": "https://github.com/filmingalliancemy-commits/refina/releases/download/v2.1.0/Refina-2.1.0.dmg",
   "full": false,
   "size_mb": 15,
-  "notes": "慢动作换新引擎 RIFE 4.26，画面更清楚（第一次用会下 23MB）；人声分离换 Mel-RoFormer，残留音乐少一半（第一次用会下 913MB，较慢）；照片去背头发边缘不再有灰边；Final Cut 面板贴上时间线片段只修那一段"
+  "notes": "影片页新功能（Beta）：转时间线，Final Cut 剪好的时间线转给 Premiere Pro。处理流程加了保护，自动更新包加了数位签名",
+  "sig": "CzXTsmfmHee0VbVecyqpkYiOLgx7kpbsliIYRfLtu0Y9rsobu7dXYrcT+4Vp6veVY1AbT/RRgPMriAVd4dBrAg=="
 }
