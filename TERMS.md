@@ -1,6 +1,6 @@
 # Refina 使用条款 / Terms of Use
 
-**最后更新：2026-10-17** · 适用版本 v2.1.0 起
+**最后更新：2026-11-22** · 适用版本 v2.1.0 起
 
 提供者：**Hanyu Filming Studio**（SSM 202103146940 / CA0324496-P，独资企业），马来西亚吉隆坡
 联系方式：filmingalliancemy@gmail.com
@@ -29,10 +29,13 @@ Refina 是一个在你自己 Mac 上运行的素材处理工具，把一批开�
 
 ## 3. 你不可以做什么
 
-- 把 Refina 重新打包后收费贩售
+- 把 Refina 重新打包后收费贩售，或者修改 Refina 的内容后再分发（收不收费都不行）
+- 反向工程、反编译 Refina，或者把里面的处理流程、脚本、参数拆出来，用在别的软件、产品或服务
 - 移除或伪造作者信息
 - 拿它处理你没有合法权利处理的素材
 - 刻意滥用登录或统计机制（例如大量注册假账号刷成就）
+
+Refina 里的开源组件（清单见 README）照各自的授权，上面这几条不限制你依照那些授权本来就有的权利。
 
 ## 4. 账号
 
@@ -85,7 +88,7 @@ Refina 按「现状」提供，不提供任何明示或暗示的担保。
 
 # English
 
-**Last updated: 2026-10-17** · Applies from v2.1.0
+**Last updated: 2026-11-22** · Applies from v2.1.0
 Provided by **Hanyu Filming Studio** (SSM 202103146940 / CA0324496-P, sole proprietorship), Kuala Lumpur, Malaysia · filmingalliancemy@gmail.com
 See also the [Privacy Policy](PRIVACY.md).
 
@@ -93,7 +96,7 @@ See also the [Privacy Policy](PRIVACY.md).
 
 **Your output is yours.** We claim no rights over anything you produce. **One exception to be aware of:** the Face Restore feature is built on CodeFormer, whose licence (NTU S-Lab License 1.0) permits **non-commercial use only**. Refina itself is free and therefore complies; if you intend to use face-restored results in a commercial project, please confirm compliance yourself or turn Face Restore off. All other engines (Real-ESRGAN, DDColor, MossFormer2, Mel-Band RoFormer, DeepFilterNet, RIFE) carry permissive licences.
 
-**You may not** repackage and sell Refina, remove or falsify authorship, process media you have no right to process, or abuse the sign-in and statistics systems.
+**You may not** repackage and sell Refina, redistribute a modified copy (paid or free), reverse engineer or decompile Refina or lift its processing chain, scripts or parameters into another app, product or service, remove or falsify authorship, process media you have no right to process, or abuse the sign-in and statistics systems. Open-source components keep their own licences; nothing here limits the rights those licences give you.
 
 **AI results are inferred, not recovered.** When a face is smaller than roughly 50 pixels, Face Restore invents a face rather than restoring one, and the result will not be the real person (the app warns you). Frame interpolation can produce ghosting at cuts, fast motion and occlusions. **Always check results before delivering them to a client.**
 
